@@ -9530,6 +9530,11 @@ button.bg-dark:focus {
   font-size: 14px;
 }
 
+.text-primary {
+  color: #17a2b8 !important;
+  font-size: 30px;
+}
+
 a.text-primary:hover, a.text-primary:focus {
   color: #0f6674 !important;
 }
